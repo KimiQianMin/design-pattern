@@ -1,0 +1,6 @@
+1. Single responsibility(like Dao, Mgr, Service class)
+2. Open for extend and close for edit(Create a abstract class for new feature class to extend. Client just dependence on the abstract class)
+3. Liskov Substitution(subclass must be able to replace their parent class and no impact for other)
+4. Dependence Inversion(interface driven development)
+5.
+6.
